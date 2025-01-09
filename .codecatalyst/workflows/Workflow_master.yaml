@@ -27,7 +27,7 @@ Actions:
     Configuration:
       # Required - Steps are sequential instructions that run shell commands
       Steps:
-        - Run: sh 'npm install'
+        - Run: npm install
       Container:
         Registry: CODECATALYST
         Image: CodeCatalystLinux_x86_64:2024_03

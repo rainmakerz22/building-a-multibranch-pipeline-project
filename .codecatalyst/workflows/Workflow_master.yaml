@@ -41,7 +41,7 @@ Actions:
 
     Compute:
       Type: EC2
-  Build_8a:
+  Build_8b:
     # Identifies the action. Do not modify this value.
     Identifier: aws/build@v1.0.0
 
